@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="post">
+  <a href="/{{ site.baseurl }}">На главную</a>
+  <a href="/{{ site.baseurl }}/about">О сайте</a>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
