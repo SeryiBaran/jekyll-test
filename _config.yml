@@ -22,7 +22,7 @@ title: Сайт без стилей
 email: trololo@example.com
 description: >-
   Этот сайт абсолютно без стилей
-baseurl: "/jekyll-test/"
+baseurl: "/jekyll-test"
 url: "https://seryibaran.github.io"
 exclude:
   - "*.gem"
